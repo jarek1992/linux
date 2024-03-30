@@ -24,3 +24,6 @@
 *  bezwzględne - względem katalogu głównego, zaczynają się od `/`
 *  względne - względem aktualnego katalogu (`pwd`)
 
+odnoga1
+odnoga1
+odnoga1
