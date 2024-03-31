@@ -16,3 +16,4 @@ Zrób takiego grepa w jakimś projekcie
 31_nowy_dzien
 MMMMMMMMMMM
 NNNNNNNNNNN
+LLLLLLLLLLL
