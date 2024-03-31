@@ -14,3 +14,5 @@ Zrób takiego grepa w jakimś projekcie
 `grep -rni dupa *`
 31
 31_nowy_dzien
+MMMMMMMMMMM
+NNNNNNNNNNN
